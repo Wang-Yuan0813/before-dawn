@@ -7,7 +7,7 @@ This is a small game made by unity(C#), here are some examples below.
 
 ![](https://github.com/Wang-Yuan0813/before-dawn/raw/master/Examples/fight.gif)
 
-It combines the movement of the Celeste and combat mechanics for the Hallow Knight
+It combines the movement of the Celeste and combat mechanics of the Hallow Knight
 
 ## Main Menu
 
