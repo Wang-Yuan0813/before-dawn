@@ -1,0 +1,3535 @@
+fileFormatVersion: 2
+guid: Xisd4SilUy9C/7YTbGM3Nyvv4oyXTWy81kl2F69eTe72uqVJ8E8ewyU=
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    webStreaming: 0
+    priorityLevel: 0
+    uploadedMode: 2
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: NPCs_Frame_0
+    originalName: 
+    pivot: {x: 0.64285713, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 456
+      width: 14
+      height: 20
+    spriteID: 18660af4fde891d45abffd9763ea12bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 456}
+  - name: NPCs_Frame_1
+    originalName: 
+    pivot: {x: 0.64285713, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 484
+      width: 14
+      height: 20
+    spriteID: 776d15328b7493c4dbcde641e5b217d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 484}
+  - name: NPCs_Frame_2
+    originalName: 
+    pivot: {x: 0.64285713, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 346
+      width: 14
+      height: 20
+    spriteID: 60d3b9aef2b18414e9f37cedbbbbe3b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 346}
+  - name: NPCs_Frame_3
+    originalName: 
+    pivot: {x: 0.64285713, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 374
+      width: 14
+      height: 20
+    spriteID: efd3fb913ec2b7f46983e5c83fe404d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 374}
+  - name: NPCs_Frame_4
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 4
+      width: 11
+      height: 20
+    spriteID: c169262f01278b54295b4e3d4c66e047
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 4}
+  - name: NPCs_Frame_5
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 32
+      width: 11
+      height: 20
+    spriteID: ff3bdc7940d4083448d4628b45e7008c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 32}
+  - name: NPCs_Frame_6
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 60
+      width: 11
+      height: 20
+    spriteID: 2a27aa6d96b939c4286cf9cab05ca18d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 60}
+  - name: NPCs_Frame_7
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 88
+      width: 11
+      height: 20
+    spriteID: a4913c574f7c3bb47b4c9d14d1f8699e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 88}
+  - name: NPCs_Frame_8
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 116
+      width: 11
+      height: 20
+    spriteID: 2670564243ad7374299fb79106f9cea5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 116}
+  - name: NPCs_Frame_16
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 144
+      width: 11
+      height: 20
+    spriteID: 398c16714c8c10b4ba2c7a72f74bb7e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 144}
+  - name: NPCs_Frame_17
+    originalName: 
+    pivot: {x: 0.5833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 430
+      width: 12
+      height: 20
+    spriteID: 668b5d8b012c4ef47a87ecf529b66400
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 430}
+  - name: NPCs_Frame_18
+    originalName: 
+    pivot: {x: 0.6153846, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 402
+      width: 13
+      height: 20
+    spriteID: 9372cdb9d7ebf924894bc5d6a130b863
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 402}
+  - name: NPCs_Frame_19
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 311
+      width: 8
+      height: 22
+    spriteID: 2191c0e0827c15f4b876588d7a205a80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 311}
+  - name: NPCs_Frame_20
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 341
+      width: 8
+      height: 22
+    spriteID: c303cbd62ad130e49ad34fa942d2a60e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 341}
+  - name: NPCs_Frame_21
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 371
+      width: 8
+      height: 22
+    spriteID: 473d8088718fe984db17fe7b7f46ae46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 371}
+  - name: NPCs_Frame_22
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 401
+      width: 8
+      height: 22
+    spriteID: c4580353053695d4197f7c9cf8afdfa2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 401}
+  - name: NPCs_Frame_23
+    originalName: 
+    pivot: {x: 0.77777785, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 35
+      width: 9
+      height: 22
+    spriteID: 9e28dc2dc778e7847abbff3037b0f914
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 35}
+  - name: NPCs_Frame_24
+    originalName: 
+    pivot: {x: 0.77777785, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 65
+      width: 9
+      height: 22
+    spriteID: 2bf4f99363c51884996ea3493d5796b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 65}
+  - name: NPCs_Frame_25
+    originalName: 
+    pivot: {x: 0.8, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 172
+      width: 10
+      height: 22
+    spriteID: bcae2ebf86c30ba49aa77c075562e3fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 172}
+  - name: NPCs_Frame_26
+    originalName: 
+    pivot: {x: 0.77777785, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 95
+      width: 9
+      height: 22
+    spriteID: b213be440e61c244fa37eb805d0418a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 95}
+  - name: NPCs_Frame_27
+    originalName: 
+    pivot: {x: 0.77777785, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 398
+      width: 9
+      height: 23
+    spriteID: 44ef97a6615c00147b8db3832474eebe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 398}
+  - name: NPCs_Frame_28
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 125
+      width: 8
+      height: 23
+    spriteID: ecbbf6c758b8bf04d83d22c930fa65a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 125}
+  - name: NPCs_Frame_29
+    originalName: 
+    pivot: {x: 0.77777785, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 429
+      width: 9
+      height: 23
+    spriteID: 77ac5c91f04aeaa4fab2c6e7f18bdef7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 429}
+  - name: NPCs_Frame_30
+    originalName: 
+    pivot: {x: 0.77777785, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 460
+      width: 9
+      height: 23
+    spriteID: 143699e21e7574f4d81b573256c7b21f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 460}
+  - name: NPCs_Frame_31
+    originalName: 
+    pivot: {x: 0.8, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 458
+      width: 10
+      height: 23
+    spriteID: 3a75cffe9cc0a2e4b92a578bcb781bfc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 458}
+  - name: NPCs_Frame_32
+    originalName: 
+    pivot: {x: 0.8, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 4
+      width: 10
+      height: 23
+    spriteID: af4c578c9919ce345990cfeec6f08809
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 4}
+  - name: NPCs_Frame_33
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 156
+      width: 8
+      height: 23
+    spriteID: a875caa3e1faf3341932a43026cabf1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 156}
+  - name: NPCs_Frame_34
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 187
+      width: 8
+      height: 23
+    spriteID: 7dc1707446c49624e8bf2015dd6da2ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 187}
+  - name: NPCs_Frame_35
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 218
+      width: 8
+      height: 23
+    spriteID: ce2db7a727847da40b6773b566194f6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 218}
+  - name: NPCs_Frame_36
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 249
+      width: 8
+      height: 23
+    spriteID: ac984f497ff6e824c840379151d4103d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 249}
+  - name: NPCs_Frame_37
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 280
+      width: 8
+      height: 23
+    spriteID: 775bb35ca4e48be42a09639048288782
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 280}
+  - name: NPCs_Frame_38
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 431
+      width: 8
+      height: 22
+    spriteID: 7907122dcdd1a464dae4a38795491fba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 431}
+  - name: NPCs_Frame_39
+    originalName: 
+    pivot: {x: 0.75, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 461
+      width: 8
+      height: 22
+    spriteID: caae4b15cba350a48b95b33a4c50c988
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 461}
+  - name: NPCs_Frame_40
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 489
+      width: 18
+      height: 19
+    spriteID: 05dc0ec3fff38f64387839fe14c8b62f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 489}
+  - name: NPCs_Frame_41
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 4
+      width: 18
+      height: 18
+    spriteID: dd373350ff9062042af4255188ac01b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 4}
+  - name: NPCs_Frame_42
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 30
+      width: 18
+      height: 18
+    spriteID: 7c384d0216c475345afbc0a68d1305d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 30}
+  - name: NPCs_Frame_43
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 56
+      width: 18
+      height: 18
+    spriteID: af6f347b7ab977b4fbbd720f22c7f42d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 56}
+  - name: NPCs_Frame_44
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 82
+      width: 18
+      height: 18
+    spriteID: d7526362ddd3a5e499c63b2b56c09c00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 82}
+  - name: NPCs_Frame_45
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 108
+      width: 18
+      height: 18
+    spriteID: 749b51e8ab021b54481fe7bb29f3c165
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 108}
+  - name: NPCs_Frame_46
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 134
+      width: 18
+      height: 18
+    spriteID: 3da8dce89b8c6a94bbad801a966cd373
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 134}
+  - name: NPCs_Frame_47
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 160
+      width: 18
+      height: 18
+    spriteID: 3c531fb341d29994eb249a52c4ad5dba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 160}
+  - name: NPCs_Frame_48
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 186
+      width: 18
+      height: 18
+    spriteID: a2c4aff9239dd884da272157c8f72a82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 186}
+  - name: NPCs_Frame_49
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 212
+      width: 18
+      height: 18
+    spriteID: d7efca3acb19e554796fc5f7cd96d678
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 212}
+  - name: NPCs_Frame_50
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 4
+      width: 18
+      height: 19
+    spriteID: 1d0b505be2ce5d2419342dcce0b9d479
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 4}
+  - name: NPCs_Frame_51
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 31
+      width: 18
+      height: 19
+    spriteID: 804bcfc5f6123164ab8a45d7d82c7200
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 31}
+  - name: NPCs_Frame_52
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 58
+      width: 18
+      height: 19
+    spriteID: 1d77f3e766ff2184cbb9c4271ccbfa1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 58}
+  - name: NPCs_Frame_53
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 85
+      width: 18
+      height: 19
+    spriteID: e0f4d12729e490a45bbf31d62b064f2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 85}
+  - name: NPCs_Frame_54
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 112
+      width: 18
+      height: 19
+    spriteID: 85ca6a1a93edf8e419909cb211986f1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 112}
+  - name: NPCs_Frame_55
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 139
+      width: 18
+      height: 19
+    spriteID: eeab74b0573e53140a5abfd37de57525
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 139}
+  - name: NPCs_Frame_56
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 166
+      width: 18
+      height: 19
+    spriteID: 3bbb222e81294bf4b8d6510543c364ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 166}
+  - name: NPCs_Frame_57
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 193
+      width: 18
+      height: 19
+    spriteID: 9bb33336d027742489b8c8a2b3143aec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 193}
+  - name: NPCs_Frame_58
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 220
+      width: 18
+      height: 19
+    spriteID: 164268fe5da410043a85d0d0dd96e11e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 220}
+  - name: NPCs_Frame_59
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 247
+      width: 18
+      height: 19
+    spriteID: 5708c2f00c9a6ab47a7ea670dcc40a80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 247}
+  - name: NPCs_Frame_60
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 350
+      width: 17
+      height: 19
+    spriteID: 9b7f116b78e325948a81e5519ea81cf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 350}
+  - name: NPCs_Frame_61
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 377
+      width: 17
+      height: 19
+    spriteID: 90774d01855721b4aa50a3a06c3e4f16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 377}
+  - name: NPCs_Frame_62
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 404
+      width: 17
+      height: 19
+    spriteID: ca5790304b43fd44daddb9a75f99f39e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 404}
+  - name: NPCs_Frame_63
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 431
+      width: 17
+      height: 19
+    spriteID: cd74c61d998736142bcef1fe2cd17a96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 431}
+  - name: NPCs_Frame_64
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 458
+      width: 17
+      height: 19
+    spriteID: 2c7b1da78f896c74a83088bc17fe8590
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 458}
+  - name: NPCs_Frame_65
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 485
+      width: 17
+      height: 19
+    spriteID: 891d20886adacf34fbd7a05b81760ce6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 485}
+  - name: NPCs_Frame_66
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 238
+      width: 17
+      height: 19
+    spriteID: ef29d01138792ff46aa130952e06d454
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 238}
+  - name: NPCs_Frame_67
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 265
+      width: 17
+      height: 19
+    spriteID: a0f576eb4afccca438875a97a9b50539
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 265}
+  - name: NPCs_Frame_68
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 292
+      width: 17
+      height: 19
+    spriteID: e5c2d7cdf05bcb940bf7053217a65f92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 292}
+  - name: NPCs_Frame_69
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 274
+      width: 17
+      height: 20
+    spriteID: 7cef972b3ea92a048889ba5afbd23086
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 274}
+  - name: NPCs_Frame_70
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 302
+      width: 17
+      height: 20
+    spriteID: 497428e6086bcf74c9a08d2c065c2f15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 302}
+  - name: NPCs_Frame_71
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 330
+      width: 17
+      height: 20
+    spriteID: 847622d6879c9b6479dafd71495e58e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 330}
+  - name: NPCs_Frame_72
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 358
+      width: 17
+      height: 20
+    spriteID: 3ee084e6287da1e4cb130fe951db86d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 358}
+  - name: NPCs_Frame_73
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 386
+      width: 17
+      height: 20
+    spriteID: d5718ba95cfebda4fb3a96746f8c1b56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 386}
+  - name: NPCs_Frame_74
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 414
+      width: 17
+      height: 20
+    spriteID: 699fd36c389d9dd4e93e28d4d805b90a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 414}
+  - name: NPCs_Frame_75
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 442
+      width: 17
+      height: 20
+    spriteID: 56296abe403df7645be9c716571329c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 442}
+  - name: NPCs_Frame_76
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 470
+      width: 17
+      height: 20
+    spriteID: eb19a9c98ad418a4c9fcad963b4f6f1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 470}
+  - name: NPCs_Frame_77
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 70
+      width: 17
+      height: 20
+    spriteID: d67397c883e03754fa2671eee4f233d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 70}
+  - name: NPCs_Frame_78
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 98
+      width: 17
+      height: 20
+    spriteID: aba3f84cf4b000b4795e968f761a379a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 98}
+  - name: NPCs_Frame_79
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 126
+      width: 17
+      height: 20
+    spriteID: 9988032b02c5b184fa0fc871c07d985f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 126}
+  - name: NPCs_Frame_80
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 154
+      width: 17
+      height: 20
+    spriteID: 7e5b42ad4e6330143aa3c16abc3732e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 154}
+  - name: NPCs_Frame_81
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 182
+      width: 17
+      height: 20
+    spriteID: f4701d51825da9e4d90c37493474ee16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 182}
+  - name: NPCs_Frame_82
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 210
+      width: 17
+      height: 20
+    spriteID: 068ad8351c880f741b9d36032bba799b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 210}
+  - name: NPCs_Frame_83
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 238
+      width: 17
+      height: 20
+    spriteID: 3c6cb76bddae2854180948bf5d02a507
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 238}
+  - name: NPCs_Frame_84
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 266
+      width: 17
+      height: 20
+    spriteID: 25f8d3fcb1024a049872b4011e9aa811
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 266}
+  - name: NPCs_Frame_85
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 294
+      width: 17
+      height: 20
+    spriteID: 2424207c3ba2d8a4193eaeae56fddf76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 294}
+  - name: NPCs_Frame_86
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 322
+      width: 17
+      height: 20
+    spriteID: 7867d54960ba6db438a3022724ab73b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 322}
+  - name: NPCs_Frame_87
+    originalName: 
+    pivot: {x: 0.4705882, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 319
+      width: 17
+      height: 19
+    spriteID: 2b593b53d98e40d4b8b67bf568967f8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 319}
+  - name: NPCs_Frame_88
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 314
+      width: 16
+      height: 27
+    spriteID: a7bcbe3a81929e448a01e03e5f8233bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 314}
+  - name: NPCs_Frame_89
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 349
+      width: 16
+      height: 27
+    spriteID: 07578fffd6e1fc3468f64fc447a9bc98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 349}
+  - name: NPCs_Frame_90
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 178
+      width: 17
+      height: 27
+    spriteID: 4ce2a18952eca15418167c4b9512692a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 178}
+  - name: NPCs_Frame_91
+    originalName: 
+    pivot: {x: 0.5294118, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 213
+      width: 17
+      height: 27
+    spriteID: c4cc49bd36d79024aaf71cefb593b790
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 213}
+  - name: NPCs_Frame_92
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 18
+      height: 27
+    spriteID: 2eaee7a50fc1d8940a8998370dded78f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: NPCs_Frame_93
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 39
+      width: 18
+      height: 27
+    spriteID: 2ddf8e7b273aa114c8e2f75d73f692e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 39}
+  - name: NPCs_Frame_94
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 74
+      width: 18
+      height: 27
+    spriteID: 43e3e36bd2910a94e8b31a6e48484245
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 74}
+  - name: NPCs_Frame_95
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 109
+      width: 18
+      height: 27
+    spriteID: 832676a839760b342b1e2d08ed9a5969
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 109}
+  - name: NPCs_Frame_96
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 384
+      width: 16
+      height: 27
+    spriteID: 4dd351e6e5d6ce848b584142dfaf7afd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 384}
+  - name: NPCs_Frame_97
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 419
+      width: 16
+      height: 27
+    spriteID: 69a15b66b47fe204fbb0b9a9b473d978
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 419}
+  - name: NPCs_Frame_98
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 454
+      width: 16
+      height: 27
+    spriteID: 5abb94f41c7bacf4495991e494a087a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 454}
+  - name: NPCs_Frame_99
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 4
+      width: 16
+      height: 27
+    spriteID: 3645df6237ee7884689d850b39cf6f74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 4}
+  - name: NPCs_Frame_100
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 39
+      width: 16
+      height: 27
+    spriteID: b2484e7a4781c564aa3a286f4fdaeef4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 39}
+  - name: NPCs_Frame_101
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 74
+      width: 16
+      height: 27
+    spriteID: 3190b55208acd4a4bbacc08c9dc3b80c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 74}
+  - name: NPCs_Frame_102
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 109
+      width: 16
+      height: 27
+    spriteID: 9e7c550326b5daa47970da53b1533f01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 109}
+  - name: NPCs_Frame_103
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 144
+      width: 16
+      height: 27
+    spriteID: d3381647c5425034fa36d5ba1dedd097
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 144}
+  - name: NPCs_Frame_104
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 179
+      width: 16
+      height: 27
+    spriteID: ecb607cdfa3a4224fbf5441cc278df86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 179}
+  - name: NPCs_Frame_105
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 214
+      width: 16
+      height: 27
+    spriteID: f900c9cba580a48439d12f6009c92910
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 214}
+  - name: NPCs_Frame_106
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 249
+      width: 16
+      height: 27
+    spriteID: b25a6a3316f1bdf448d6dae018b69e86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 249}
+  - name: NPCs_Frame_107
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 284
+      width: 16
+      height: 27
+    spriteID: 5995df478bf20a24ab9cf8d0213d4125
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 284}
+  - name: NPCs_Frame_108
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 319
+      width: 16
+      height: 27
+    spriteID: 3d9af7c59fa452745a69ae23a918bf04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 319}
+  - name: NPCs_Frame_109
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 354
+      width: 16
+      height: 27
+    spriteID: d58f021edf15ed24e98cffc473e4765e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 354}
+  - name: NPCs_Frame_110
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 389
+      width: 16
+      height: 26
+    spriteID: 894642935a1525a4d8e6285a633f5680
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 389}
+  - name: NPCs_Frame_111
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 423
+      width: 16
+      height: 25
+    spriteID: 6f515b1f990305d4f817c394eb8fd92b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 423}
+  - name: NPCs_Frame_112
+    originalName: 
+    pivot: {x: 0.5882353, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 4
+      width: 17
+      height: 25
+    spriteID: 6001127fa17efc1498e18f1e4292a67e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 4}
+  - name: NPCs_Frame_113
+    originalName: 
+    pivot: {x: 0.5882353, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 54
+      y: 37
+      width: 17
+      height: 25
+    spriteID: 6215026c6fadcee4f92e144e82d4342d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 54, y: 37}
+  - name: NPCs_Frame_114
+    originalName: 
+    pivot: {x: 0.6111111, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 248
+      width: 18
+      height: 25
+    spriteID: a43f43839cc625643b8565b071bfb18a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 248}
+  - name: NPCs_Frame_115
+    originalName: 
+    pivot: {x: 0.6111111, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 281
+      width: 18
+      height: 25
+    spriteID: 94552cdf4215bcb4f985952ea554324b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 281}
+  - name: NPCs_Frame_116
+    originalName: 
+    pivot: {x: 0.6111111, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 144
+      width: 18
+      height: 26
+    spriteID: ff2c90ff220030d4b8f9b7f5ce25c063
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 144}
+  - name: NPCs_Frame_9
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 202
+      width: 11
+      height: 20
+    spriteID: 9148ccdad28ec34449f6fe90410fc485
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 202}
+  - name: NPCs_Frame_10
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 230
+      width: 11
+      height: 20
+    spriteID: 7ffec5aca859d564e9e092c6c6643eda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 230}
+  - name: NPCs_Frame_11
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 258
+      width: 11
+      height: 20
+    spriteID: 28810b6f4301cfa4389af5ce7b7988c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 258}
+  - name: NPCs_Frame_12
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 286
+      width: 11
+      height: 20
+    spriteID: 5466f2903b59b01438f87d6d62e5ca84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 286}
+  - name: NPCs_Frame_13
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 314
+      width: 11
+      height: 20
+    spriteID: 869af202d375dbc41a7806f1706dc1fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 314}
+  - name: NPCs_Frame_14
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 342
+      width: 11
+      height: 20
+    spriteID: eda2463ca8cd39a4fa5388ce62a79469
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 342}
+  - name: NPCs_Frame_15
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 370
+      width: 11
+      height: 20
+    spriteID: 7ffd9217fe187514baec39e3c4ee3017
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 370}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1652782578
+    name: NPCs
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: NPCs_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 14
+        height: 20
+      spriteId: 18660af4fde891d45abffd9763ea12bb
+    - name: NPCs_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 14
+        height: 20
+      spriteId: 776d15328b7493c4dbcde641e5b217d8
+    - name: NPCs_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 14
+        height: 20
+      spriteId: 60d3b9aef2b18414e9f37cedbbbbe3b9
+    - name: NPCs_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 14
+        height: 20
+      spriteId: efd3fb913ec2b7f46983e5c83fe404d8
+    - name: NPCs_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: c169262f01278b54295b4e3d4c66e047
+    - name: NPCs_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: ff3bdc7940d4083448d4628b45e7008c
+    - name: NPCs_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: 2a27aa6d96b939c4286cf9cab05ca18d
+    - name: NPCs_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: a4913c574f7c3bb47b4c9d14d1f8699e
+    - name: NPCs_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: 2670564243ad7374299fb79106f9cea5
+    - name: NPCs_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: 398c16714c8c10b4ba2c7a72f74bb7e1
+    - name: NPCs_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 0
+        width: 12
+        height: 20
+      spriteId: 668b5d8b012c4ef47a87ecf529b66400
+    - name: NPCs_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 13
+        height: 20
+      spriteId: 9372cdb9d7ebf924894bc5d6a130b863
+    - name: NPCs_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 22
+      spriteId: 2191c0e0827c15f4b876588d7a205a80
+    - name: NPCs_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 22
+      spriteId: c303cbd62ad130e49ad34fa942d2a60e
+    - name: NPCs_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 22
+      spriteId: 473d8088718fe984db17fe7b7f46ae46
+    - name: NPCs_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 22
+      spriteId: c4580353053695d4197f7c9cf8afdfa2
+    - name: NPCs_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 0
+        width: 9
+        height: 22
+      spriteId: 9e28dc2dc778e7847abbff3037b0f914
+    - name: NPCs_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 0
+        width: 9
+        height: 22
+      spriteId: 2bf4f99363c51884996ea3493d5796b5
+    - name: NPCs_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 10
+        height: 22
+      spriteId: bcae2ebf86c30ba49aa77c075562e3fb
+    - name: NPCs_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 0
+        width: 9
+        height: 22
+      spriteId: b213be440e61c244fa37eb805d0418a0
+    - name: NPCs_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 0
+        width: 9
+        height: 23
+      spriteId: 44ef97a6615c00147b8db3832474eebe
+    - name: NPCs_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 23
+      spriteId: ecbbf6c758b8bf04d83d22c930fa65a6
+    - name: NPCs_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 0
+        width: 9
+        height: 23
+      spriteId: 77ac5c91f04aeaa4fab2c6e7f18bdef7
+    - name: NPCs_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 17
+        y: 0
+        width: 9
+        height: 23
+      spriteId: 143699e21e7574f4d81b573256c7b21f
+    - name: NPCs_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 10
+        height: 23
+      spriteId: 3a75cffe9cc0a2e4b92a578bcb781bfc
+    - name: NPCs_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 10
+        height: 23
+      spriteId: af4c578c9919ce345990cfeec6f08809
+    - name: NPCs_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 23
+      spriteId: a875caa3e1faf3341932a43026cabf1b
+    - name: NPCs_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 23
+      spriteId: 7dc1707446c49624e8bf2015dd6da2ed
+    - name: NPCs_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 23
+      spriteId: ce2db7a727847da40b6773b566194f6b
+    - name: NPCs_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 23
+      spriteId: ac984f497ff6e824c840379151d4103d
+    - name: NPCs_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 23
+      spriteId: 775bb35ca4e48be42a09639048288782
+    - name: NPCs_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 22
+      spriteId: 7907122dcdd1a464dae4a38795491fba
+    - name: NPCs_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 8
+        height: 22
+      spriteId: caae4b15cba350a48b95b33a4c50c988
+    - name: NPCs_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 19
+      spriteId: 05dc0ec3fff38f64387839fe14c8b62f
+    - name: NPCs_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 18
+      spriteId: dd373350ff9062042af4255188ac01b2
+    - name: NPCs_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 18
+      spriteId: 7c384d0216c475345afbc0a68d1305d8
+    - name: NPCs_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 18
+      spriteId: af6f347b7ab977b4fbbd720f22c7f42d
+    - name: NPCs_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 18
+      spriteId: d7526362ddd3a5e499c63b2b56c09c00
+    - name: NPCs_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 18
+      spriteId: 749b51e8ab021b54481fe7bb29f3c165
+    - name: NPCs_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 18
+      spriteId: 3da8dce89b8c6a94bbad801a966cd373
+    - name: NPCs_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 18
+      spriteId: 3c531fb341d29994eb249a52c4ad5dba
+    - name: NPCs_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 18
+      spriteId: a2c4aff9239dd884da272157c8f72a82
+    - name: NPCs_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 18
+      spriteId: d7efca3acb19e554796fc5f7cd96d678
+    - name: NPCs_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 19
+      spriteId: 1d0b505be2ce5d2419342dcce0b9d479
+    - name: NPCs_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 19
+      spriteId: 804bcfc5f6123164ab8a45d7d82c7200
+    - name: NPCs_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 19
+      spriteId: 1d77f3e766ff2184cbb9c4271ccbfa1d
+    - name: NPCs_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 19
+      spriteId: e0f4d12729e490a45bbf31d62b064f2c
+    - name: NPCs_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 19
+      spriteId: 85ca6a1a93edf8e419909cb211986f1e
+    - name: NPCs_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 19
+      spriteId: eeab74b0573e53140a5abfd37de57525
+    - name: NPCs_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 19
+      spriteId: 3bbb222e81294bf4b8d6510543c364ec
+    - name: NPCs_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 19
+      spriteId: 9bb33336d027742489b8c8a2b3143aec
+    - name: NPCs_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 19
+      spriteId: 164268fe5da410043a85d0d0dd96e11e
+    - name: NPCs_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 18
+        height: 19
+      spriteId: 5708c2f00c9a6ab47a7ea670dcc40a80
+    - name: NPCs_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 19
+      spriteId: 9b7f116b78e325948a81e5519ea81cf7
+    - name: NPCs_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 19
+      spriteId: 90774d01855721b4aa50a3a06c3e4f16
+    - name: NPCs_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 19
+      spriteId: ca5790304b43fd44daddb9a75f99f39e
+    - name: NPCs_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 19
+      spriteId: cd74c61d998736142bcef1fe2cd17a96
+    - name: NPCs_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 19
+      spriteId: 2c7b1da78f896c74a83088bc17fe8590
+    - name: NPCs_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 19
+      spriteId: 891d20886adacf34fbd7a05b81760ce6
+    - name: NPCs_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 19
+      spriteId: ef29d01138792ff46aa130952e06d454
+    - name: NPCs_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 19
+      spriteId: a0f576eb4afccca438875a97a9b50539
+    - name: NPCs_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 19
+      spriteId: e5c2d7cdf05bcb940bf7053217a65f92
+    - name: NPCs_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 7cef972b3ea92a048889ba5afbd23086
+    - name: NPCs_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 497428e6086bcf74c9a08d2c065c2f15
+    - name: NPCs_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 847622d6879c9b6479dafd71495e58e8
+    - name: NPCs_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 3ee084e6287da1e4cb130fe951db86d1
+    - name: NPCs_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: d5718ba95cfebda4fb3a96746f8c1b56
+    - name: NPCs_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 699fd36c389d9dd4e93e28d4d805b90a
+    - name: NPCs_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 56296abe403df7645be9c716571329c5
+    - name: NPCs_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: eb19a9c98ad418a4c9fcad963b4f6f1c
+    - name: NPCs_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: d67397c883e03754fa2671eee4f233d3
+    - name: NPCs_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: aba3f84cf4b000b4795e968f761a379a
+    - name: NPCs_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 9988032b02c5b184fa0fc871c07d985f
+    - name: NPCs_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 7e5b42ad4e6330143aa3c16abc3732e4
+    - name: NPCs_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: f4701d51825da9e4d90c37493474ee16
+    - name: NPCs_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 068ad8351c880f741b9d36032bba799b
+    - name: NPCs_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 3c6cb76bddae2854180948bf5d02a507
+    - name: NPCs_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 25f8d3fcb1024a049872b4011e9aa811
+    - name: NPCs_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 2424207c3ba2d8a4193eaeae56fddf76
+    - name: NPCs_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 20
+      spriteId: 7867d54960ba6db438a3022724ab73b2
+    - name: NPCs_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 17
+        height: 19
+      spriteId: 2b593b53d98e40d4b8b67bf568967f8b
+    - name: NPCs_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: a7bcbe3a81929e448a01e03e5f8233bb
+    - name: NPCs_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: 07578fffd6e1fc3468f64fc447a9bc98
+    - name: NPCs_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 17
+        height: 27
+      spriteId: 4ce2a18952eca15418167c4b9512692a
+    - name: NPCs_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 17
+        height: 27
+      spriteId: c4cc49bd36d79024aaf71cefb593b790
+    - name: NPCs_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 18
+        height: 27
+      spriteId: 2eaee7a50fc1d8940a8998370dded78f
+    - name: NPCs_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 18
+        height: 27
+      spriteId: 2ddf8e7b273aa114c8e2f75d73f692e9
+    - name: NPCs_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 18
+        height: 27
+      spriteId: 43e3e36bd2910a94e8b31a6e48484245
+    - name: NPCs_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 18
+        height: 27
+      spriteId: 832676a839760b342b1e2d08ed9a5969
+    - name: NPCs_Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: 4dd351e6e5d6ce848b584142dfaf7afd
+    - name: NPCs_Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: 69a15b66b47fe204fbb0b9a9b473d978
+    - name: NPCs_Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: 5abb94f41c7bacf4495991e494a087a1
+    - name: NPCs_Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: 3645df6237ee7884689d850b39cf6f74
+    - name: NPCs_Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: b2484e7a4781c564aa3a286f4fdaeef4
+    - name: NPCs_Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: 3190b55208acd4a4bbacc08c9dc3b80c
+    - name: NPCs_Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: 9e7c550326b5daa47970da53b1533f01
+    - name: NPCs_Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: d3381647c5425034fa36d5ba1dedd097
+    - name: NPCs_Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: ecb607cdfa3a4224fbf5441cc278df86
+    - name: NPCs_Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: f900c9cba580a48439d12f6009c92910
+    - name: NPCs_Frame_106
+      frameIndex: 106
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: b25a6a3316f1bdf448d6dae018b69e86
+    - name: NPCs_Frame_107
+      frameIndex: 107
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: 5995df478bf20a24ab9cf8d0213d4125
+    - name: NPCs_Frame_108
+      frameIndex: 108
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: 3d9af7c59fa452745a69ae23a918bf04
+    - name: NPCs_Frame_109
+      frameIndex: 109
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 27
+      spriteId: d58f021edf15ed24e98cffc473e4765e
+    - name: NPCs_Frame_110
+      frameIndex: 110
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 26
+      spriteId: 894642935a1525a4d8e6285a633f5680
+    - name: NPCs_Frame_111
+      frameIndex: 111
+      additiveSortOrder: 0
+      cellRect:
+        x: 15
+        y: 0
+        width: 16
+        height: 25
+      spriteId: 6f515b1f990305d4f817c394eb8fd92b
+    - name: NPCs_Frame_112
+      frameIndex: 112
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 17
+        height: 25
+      spriteId: 6001127fa17efc1498e18f1e4292a67e
+    - name: NPCs_Frame_113
+      frameIndex: 113
+      additiveSortOrder: 0
+      cellRect:
+        x: 14
+        y: 0
+        width: 17
+        height: 25
+      spriteId: 6215026c6fadcee4f92e144e82d4342d
+    - name: NPCs_Frame_114
+      frameIndex: 114
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 0
+        width: 18
+        height: 25
+      spriteId: a43f43839cc625643b8565b071bfb18a
+    - name: NPCs_Frame_115
+      frameIndex: 115
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 0
+        width: 18
+        height: 25
+      spriteId: 94552cdf4215bcb4f985952ea554324b
+    - name: NPCs_Frame_116
+      frameIndex: 116
+      additiveSortOrder: 0
+      cellRect:
+        x: 13
+        y: 0
+        width: 18
+        height: 26
+      spriteId: ff2c90ff220030d4b8f9b7f5ce25c063
+    - name: NPCs_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: 9148ccdad28ec34449f6fe90410fc485
+    - name: NPCs_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: 7ffec5aca859d564e9e092c6c6643eda
+    - name: NPCs_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: 28810b6f4301cfa4389af5ce7b7988c0
+    - name: NPCs_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: 5466f2903b59b01438f87d6d62e5ca84
+    - name: NPCs_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: 869af202d375dbc41a7806f1706dc1fe
+    - name: NPCs_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: eda2463ca8cd39a4fa5388ce62a79469
+    - name: NPCs_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 18
+        y: 0
+        width: 11
+        height: 20
+      spriteId: 7ffd9217fe187514baec39e3c4ee3017
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 48, y: 32}

@@ -1,0 +1,1481 @@
+fileFormatVersion: 2
+guid: CX4XsSz+U3NU2tYv0HENLHJDly/ZAvjUMw7aAim/Ly2Hv3EumzmlWkA=
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  webStreaming: 0
+  priorityLevel: 0
+  uploadedMode: 2
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    maxPlaceholderSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    maxPlaceholderSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    maxPlaceholderSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    maxPlaceholderSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WeixinMiniGame
+    maxTextureSize: 2048
+    maxPlaceholderSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbf993e0c4ffe64288cfe9be9e1d37c
+      internalID: 170728184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 360
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22783e8a67c66dd45a6f090048802fdc
+      internalID: -1484309599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 360
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f932fdcc0f65b4b81b3d47a4adfccf
+      internalID: 1929693188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 360
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319d59dada8e4cc4692249a79e26b4bf
+      internalID: 166389853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 360
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228207acd74100648ab916e1dd652f3d
+      internalID: -631956278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 360
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee02fcb781228104d9f99cc5c0e6bf01
+      internalID: 1466611619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 360
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f306e1f437c2414ca846c09fbc9c1ca
+      internalID: 65438003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46c917d6d3e0234380c4cfc0f465248
+      internalID: -863647232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 320
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140ce7f7999b2e146a53244f45d7450c
+      internalID: -337139410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 320
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a0af1114bc6e1499ddefb40c47b3d1
+      internalID: 1047160066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 320
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06529118ce61bb46a27567e00f847e3
+      internalID: 1174930708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 320
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc7a7663e7ccc49b6ca80c3567e382
+      internalID: -631857825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 320
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca20152971e79f24ea8ecfd72f5f2a3d
+      internalID: -1447169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 320
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a3803f4215566428a888cced226e66
+      internalID: 1114218668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 320
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4317f76845b26f043a1ba941719f3226
+      internalID: 1234068448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc3bb1831cc7343bba472308d3d6e1
+      internalID: 1588909376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 280
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6246890ef306224e879384701901c9f
+      internalID: 1487723611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 280
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafb0c7d1feb4ea42ba4882b08d3aeb2
+      internalID: -1183045089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 280
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c02400b26b2c04aa13e76b6c413ad8
+      internalID: 1180150212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 280
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e5f51af2c8a5649801c2c618ce844a
+      internalID: -1554823082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 280
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aac59025e2e7614699286cfaf99a94d
+      internalID: 877196863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 280
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c5893936e50d34bad07eefd2e92f0f
+      internalID: 432502258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b1bc1751d77d9469b99de919c142f4
+      internalID: -1542360240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0e6d73b493e8742a070a28debdc06c
+      internalID: 441081847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a42691c09955c4490c0c48c1d9d65a
+      internalID: 940255964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51722d9dcd70c6b49b51be437e77c6d0
+      internalID: -1767426185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cc2dbbc32bc5644b24fd2d9e016cec
+      internalID: -2104124197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb6e8c7d2fe96e4cadf6ce37b5fa723
+      internalID: -1086527310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8495b33732df94f81f7296ac2e1ab2
+      internalID: -1632885483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2826135e8f3d40940b4aa2640b11e1b8
+      internalID: 725928050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e903464ffa74bda4b95bcfc9e7f42c20
+      internalID: 210043464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d46e71cf5876f40a26d4b8fbffb1ff
+      internalID: 2015532771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031fa87d794100944b940053754150da
+      internalID: -1918798444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_33
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7910da4725827438a3f2a9a68ceb8c
+      internalID: -1598020484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_34
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee57a0737f6d6448a9ae52e9c99f746
+      internalID: -819602394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_35
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d9a9fd295e7864f812f087bd503e69
+      internalID: -321797207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_36
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f5d30e1c09d048a29fbf2125e34c8
+      internalID: -1095512379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_37
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8197b4e2354913d4f939d020db29ae2f
+      internalID: -972564723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_38
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333690de4bfb0c14192b1b7a64f2ab6c
+      internalID: -1474813160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa52b6e7dbd82e24db959fb508c1edf2
+      internalID: 537028950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 200
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aeb777b0ea69941b5772c37441132f
+      internalID: 1470369351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 200
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3fb6a262b901840ba774e4b8933f3a
+      internalID: 1214953979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 200
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3e3c7a14db1c740939fb1e8e2beef6
+      internalID: 1862985475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 200
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f1ea412d4a30f4d86c044589318fb1
+      internalID: -591842500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_44
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 200
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673a6939a53d48f47955415fe70f568a
+      internalID: 396348185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 200
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6f103dabafb924cbb052b67d5a4c2b
+      internalID: 1165923381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688faf28a2cf45b41a6026d3d2c2c4c3
+      internalID: -102413284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 160
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83493802a5434dc4993a86b4c825f207
+      internalID: 1902248491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 160
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6090099977f8ac04ab2008f0626c9f42
+      internalID: 1837384437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_49
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 160
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca83c16be05108489ecd45be38b1c1d
+      internalID: -862495923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_50
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 160
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34f373a63e0ad4da3f8f5fba102c97
+      internalID: 1397617274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c0c57012d912a41a64e510a84eb764
+      internalID: 1640488646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14882ecda04c6b4f9d8b0966625d226
+      internalID: 1241919747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f3601023bb624c94c0a1b4fa041b6
+      internalID: -1569883231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f58341983b07c44b3f1af9931c99c9
+      internalID: 1195947195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5655c74565583ab46833c53fa98898d4
+      internalID: 1042888243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_56
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94738f87f050b24580cc64c14feeb35
+      internalID: 1098356633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_57
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bda0db3f5de6b48b6307a125e91e3f
+      internalID: 811705935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_58
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73be90852b9bf2249bc1fb7bdd29f2f8
+      internalID: -40722895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiny swordmaster without sword_59
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c288d5e2ef9d1d94b9d92f21fcfa276a
+      internalID: -1698149630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tiny swordmaster without sword_0: 170728184
+      tiny swordmaster without sword_1: -1484309599
+      tiny swordmaster without sword_10: 1174930708
+      tiny swordmaster without sword_11: -631857825
+      tiny swordmaster without sword_12: -1447169
+      tiny swordmaster without sword_13: 1114218668
+      tiny swordmaster without sword_14: 1234068448
+      tiny swordmaster without sword_15: 1588909376
+      tiny swordmaster without sword_16: 1487723611
+      tiny swordmaster without sword_17: -1183045089
+      tiny swordmaster without sword_18: 1180150212
+      tiny swordmaster without sword_19: -1554823082
+      tiny swordmaster without sword_2: 1929693188
+      tiny swordmaster without sword_20: 877196863
+      tiny swordmaster without sword_21: 432502258
+      tiny swordmaster without sword_22: -1542360240
+      tiny swordmaster without sword_23: 441081847
+      tiny swordmaster without sword_24: 940255964
+      tiny swordmaster without sword_25: -1767426185
+      tiny swordmaster without sword_26: -2104124197
+      tiny swordmaster without sword_27: -1086527310
+      tiny swordmaster without sword_28: -1632885483
+      tiny swordmaster without sword_29: 725928050
+      tiny swordmaster without sword_3: 166389853
+      tiny swordmaster without sword_30: 210043464
+      tiny swordmaster without sword_31: 2015532771
+      tiny swordmaster without sword_32: -1918798444
+      tiny swordmaster without sword_33: -1598020484
+      tiny swordmaster without sword_34: -819602394
+      tiny swordmaster without sword_35: -321797207
+      tiny swordmaster without sword_36: -1095512379
+      tiny swordmaster without sword_37: -972564723
+      tiny swordmaster without sword_38: -1474813160
+      tiny swordmaster without sword_39: 537028950
+      tiny swordmaster without sword_4: -631956278
+      tiny swordmaster without sword_40: 1470369351
+      tiny swordmaster without sword_41: 1214953979
+      tiny swordmaster without sword_42: 1862985475
+      tiny swordmaster without sword_43: -591842500
+      tiny swordmaster without sword_44: 396348185
+      tiny swordmaster without sword_45: 1165923381
+      tiny swordmaster without sword_46: -102413284
+      tiny swordmaster without sword_47: 1902248491
+      tiny swordmaster without sword_48: 1837384437
+      tiny swordmaster without sword_49: -862495923
+      tiny swordmaster without sword_5: 1466611619
+      tiny swordmaster without sword_50: 1397617274
+      tiny swordmaster without sword_51: 1640488646
+      tiny swordmaster without sword_52: 1241919747
+      tiny swordmaster without sword_53: -1569883231
+      tiny swordmaster without sword_54: 1195947195
+      tiny swordmaster without sword_55: 1042888243
+      tiny swordmaster without sword_56: 1098356633
+      tiny swordmaster without sword_57: 811705935
+      tiny swordmaster without sword_58: -40722895
+      tiny swordmaster without sword_59: -1698149630
+      tiny swordmaster without sword_6: 65438003
+      tiny swordmaster without sword_7: -863647232
+      tiny swordmaster without sword_8: -337139410
+      tiny swordmaster without sword_9: 1047160066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
